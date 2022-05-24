@@ -26,7 +26,6 @@ public class Collidable : MonoBehaviour
 
             OnCollide(hits[i]);
 
-            hits[i] = null;
         }
     }
 
