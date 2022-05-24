@@ -2081,6 +2081,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chest2
       objectReference: {fileID: 0}
+    - target: {fileID: 9068704609346039529, guid: cb157b82f4c75c94fbf6c9d7662750c0, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb157b82f4c75c94fbf6c9d7662750c0, type: 3}
 --- !u!1 &1170468174
@@ -76634,7 +76638,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9068704609346039529, guid: cb157b82f4c75c94fbf6c9d7662750c0, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb157b82f4c75c94fbf6c9d7662750c0, type: 3}
